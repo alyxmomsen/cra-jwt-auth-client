@@ -1,7 +1,7 @@
 # Issues :
 
-- как разрешить CORS для POST запросов?
-- GET запрос на защищенный Middleware маршрут проходит, но Post нет
+- how do I allow CORS for POST requests?
+- The GET request for the secure middleware route passes, but the Post does not
 
 # The Task
 
