@@ -1,0 +1,21 @@
+.wrapper {
+  justify-content: center;
+  display: flex;
+  gap: 9px;
+}
+
+.wrapper a {
+  color: #648b9f;
+  font-weight: bold;
+  transition: color 0.2s ease-out;
+  text-decoration: none;
+}
+
+.wrapper a:visited {
+  text-decoration: inherit;
+}
+
+.wrapper a:hover {
+  color: #c4d8e2;
+  text-decoration: underline;
+}

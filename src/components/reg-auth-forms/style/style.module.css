@@ -1,0 +1,57 @@
+.wrapper {
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #2d524c;
+  padding: 19px;
+}
+
+.statusDisplay {
+
+}
+
+.onSucces {
+  color:greenyellow ;
+}
+
+.onFalse {
+  color: red;
+}
+
+.wrapper h1 {
+  color: #87afa8;
+}
+
+.wrapper h2 {
+  color: #87afa8;
+}
+
+.wrapper > span {
+  cursor: pointer;
+  color: #9addd2;
+  font-weight: bold;
+  width: 100%;
+  display: block;
+  text-align: right;
+}
+
+.wrapper > span:hover {
+  cursor: pointer;
+  color: #c6efe8;
+  text-decoration: underline;
+}
+
+.wrapper form {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper input {
+  width: 200px;
+  margin: 9px auto;
+}
+
+.wrapper select {
+  width: 200px;
+  margin: 9px auto;
+}

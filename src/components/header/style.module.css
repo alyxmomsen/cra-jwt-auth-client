@@ -1,0 +1,10 @@
+.wrapper {
+  background-color: #294a5b;
+  padding: 9px;
+}
+
+.wrapper span {
+  color: #c4d4dc;
+  font-weight: bold;
+  /* background-color: red; */
+}

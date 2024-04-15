@@ -1,0 +1,25 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  background-color: aliceblue;
+  padding: 9px;
+  border-radius: 9px;
+  margin: 9px 9px;
+}
+
+.wrapper > h3 {
+  background-color: #5d7988;
+  background-color: inherit;
+}
+
+.wrapper > div > img {
+  border-radius: 9px;
+}
+
+.wrapper > div {
+  display: flex;
+  background-color: #5d7988;
+  gap: 9px;
+  border-radius: 9px 0 0 9px;
+}
